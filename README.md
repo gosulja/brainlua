@@ -11,7 +11,7 @@ Make sure you have the requirements installed on your machine before proceeding.
 
 ### Clone the repository.
 ```bash
-$ git clone https://github.com/gosulja/brainlua.git brainlua
+$ git clone https://github.com/gosulja/brainlua.git
 $ cd brainlua
 ```
 
@@ -24,7 +24,7 @@ This will run the repl along with the test cases.
 
 ### Running files
 ```bash
-$ luajit src/main.lua tests/hello.b
+$ luajit src/main.lua examples/cat.b
 ```
 
 Files require to have the `.b` file extension.
