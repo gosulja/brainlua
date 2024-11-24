@@ -1,6 +1,8 @@
 # brainlua
 A brainfuck implementation written in Lua with LuaJIT.
 
+This implementation currently passes all of the tests internally, if you want to contribute and fix any errors you encounter, please add new test cases and a pull request!
+
 # Requirements
 * LuaJIT
 
