@@ -3,6 +3,9 @@ A brainfuck implementation written in Lua with LuaJIT.
 
 This implementation currently passes all of the tests internally, if you want to contribute and fix any errors you encounter, please add new test cases and a pull request!
 
+# TODO
+* Redesign the token structure for a more concise and optimistic output, potentially encode tokens, and pack a repetitive count along side the tokens type.
+
 # Requirements
 * LuaJIT
 
